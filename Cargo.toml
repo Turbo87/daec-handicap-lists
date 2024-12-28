@@ -13,7 +13,7 @@ headless_chrome = { version = "=1.0.15", default-features = false }
 minijinja = "=2.4.0"
 serde = { version = "=1.0.214", features = ["derive"] }
 tempfile = "=3.13.0"
-url = "=2.5.2"
+url = "=2.5.4"
 
 [dev-dependencies]
 insta = "=1.41.0"
