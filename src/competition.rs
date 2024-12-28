@@ -56,7 +56,7 @@ impl CompetitionClass {
         let title = title.into();
         let records = all_records
             .iter()
-            .filter(|r| filter(*r) && r.handicap >= cutoff)
+            .filter(|r| filter(r) && r.handicap >= cutoff)
             .map(|r| r.with_handicap(r.handicap / reference))
             .collect::<Vec<_>>();
 
