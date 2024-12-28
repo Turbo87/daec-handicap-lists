@@ -190,6 +190,11 @@ snapshot_kind: text
               <td>0.930</td>
             </tr>
         </table>
+        <p class="comment">
+          Flugzeuge, die der Klassendefinition entsprechen und in der klassenübergreifenden Liste
+          einen Index von <b>106</b> oder weniger haben, erhalten einen Index von
+          <b>0.930</b>.
+        </p>
         
         
         <h2>Standardklasse</h2>
@@ -287,6 +292,11 @@ snapshot_kind: text
               <td>0.927</td>
             </tr>
         </table>
+        <p class="comment">
+          Flugzeuge, die der Klassendefinition entsprechen und in der klassenübergreifenden Liste
+          einen Index von <b>102</b> oder weniger haben, erhalten einen Index von
+          <b>0.927</b>.
+        </p>
         
 
         <h2>Klassenübergreifend</h2>
