@@ -20,17 +20,18 @@ pub fn generate_dmst(opts: &Options) -> anyhow::Result<()> {
     let mut rdr = csv::Reader::from_reader(file);
     for result in rdr.records() {
         let record = result?;
-        let id = record
+        let _id = record
             .get(0)
             .unwrap()
             .parse::<u32>()
             .context("Failed to parse id")?;
         let name = record.get(2).unwrap().to_string();
-        let old_handicap = record.get(16).unwrap().parse::<u8>()?;
-        let handicap = record.get(17).unwrap().parse::<u8>()?;
+        let _old_handicap = record.get(19).unwrap().parse::<u8>()?;
+        let handicap = record.get(20).unwrap().parse::<u8>()?;
         let class = record.get(4).unwrap().to_string();
 
-        let highlight = id > 593 || handicap != old_handicap;
+        // let highlight = id > 593 || handicap != old_handicap;
+        let highlight = false;
 
         let plane_type = PlaneType { name, highlight };
 
