@@ -1,7 +1,6 @@
 ---
 source: src/main.rs
 expression: html
-snapshot_kind: text
 ---
 <!DOCTYPE html>
 <html lang="de">
@@ -143,6 +142,7 @@ snapshot_kind: text
                   <span class="glider-type">fs 32 <span class="sep">|</span></span>
                   <span class="glider-type">Glasflügel 304 <span class="sep">|</span></span>
                   <span class="glider-type">HpH 304 CZ <span class="sep">|</span></span>
+                  <span class="glider-type">LS 3 neo <span class="sep">|</span></span>
                   <span class="glider-type">LS 3 WL <span class="sep">|</span></span>
                   <span class="glider-type">LS 8e neo <span class="sep">|</span></span>
                   <span class="glider-type">SB 11 <span class="sep">|</span></span>
@@ -651,6 +651,7 @@ snapshot_kind: text
               <span class="glider-type">fs 32 <span class="sep">|</span></span>
               <span class="glider-type">Glasflügel 304 <span class="sep">|</span></span>
               <span class="glider-type">HpH 304 CZ <span class="sep">|</span></span>
+              <span class="glider-type">LS 3 neo <span class="sep">|</span></span>
               <span class="glider-type">LS 3 WL <span class="sep">|</span></span>
               <span class="glider-type">LS 8e neo <span class="sep">|</span></span>
               <span class="glider-type">SB 11 <span class="sep">|</span></span>
@@ -834,7 +835,9 @@ snapshot_kind: text
             <td>
               <span class="glider-type">fs 31 <span class="sep">|</span></span>
               <span class="glider-type">G 103 Twin 3 20m <span class="sep">|</span></span>
+              <span class="glider-type">LS 1-d neo <span class="sep">|</span></span>
               <span class="glider-type">Std. Cirrus <span class="sep">|</span></span>
+              <span class="glider-type">Std. Libelle WL <span class="sep">|</span></span>
               <span class="glider-type">Taurus</span>
             </td>
             <td>99</td>
@@ -860,7 +863,6 @@ snapshot_kind: text
               <span class="glider-type">Panjo V2 <span class="sep">|</span></span>
               <span class="glider-type">Silence E 75 <span class="sep">|</span></span>
               <span class="glider-type">Std. Libelle <span class="sep">|</span></span>
-              <span class="glider-type">Std. Libelle WL <span class="sep">|</span></span>
               <span class="glider-type">SZD-36 Cobra 15 <span class="sep">|</span></span>
               <span class="glider-type">SZD-54-2 Perkoz 17.5m</span>
             </td>

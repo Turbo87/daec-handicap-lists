@@ -1,21 +1,20 @@
 ---
 source: src/main.rs
 expression: html
-snapshot_kind: text
 ---
 <!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>DAeC Indexliste: DMSt 2023</title>
-    <link href="https://fonts.googleapis.com/css?family=Domine&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+    <title>DAeC Indexliste: DMSt 2026</title>
+    <link href="https://fonts.googleapis.com/css?family=Domine" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
 </head>
 <body>
 <h1 class="header">
     <img src="dmst-logo.svg" class="logo">
-    DAeC Indexliste: DMSt 2023
+    DAeC Indexliste: DMSt 2026
 </h1>
 <table>
   <thead>
@@ -41,6 +40,7 @@ snapshot_kind: text
             <tr>
                 <td>
                     <span class="glider-type">EB 29 <span class="sep">|</span></span>
+                    <span class="glider-type">JS5 24m <span class="sep">|</span></span>
                     <span class="glider-type">NimEta X</span>
                 </td>
                 <td>128</td>
@@ -56,9 +56,10 @@ snapshot_kind: text
                 <td>
                     <span class="glider-type">Antares 23E <span class="sep">|</span></span>
                     <span class="glider-type">Antares 23T <span class="sep">|</span></span>
-                    <span class="glider-type highlight">JS1C 21m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">JS1C TJ 21m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Nixus <span class="sep">|</span></span>
+                    <span class="glider-type">JS1C 21m <span class="sep">|</span></span>
+                    <span class="glider-type">JS1C TJ 21m <span class="sep">|</span></span>
+                    <span class="glider-type">JS2 21m <span class="sep">|</span></span>
+                    <span class="glider-type">Nixus <span class="sep">|</span></span>
                     <span class="glider-type">Quintus</span>
                 </td>
                 <td>126</td>
@@ -73,7 +74,7 @@ snapshot_kind: text
             <tr>
                 <td>
                     <span class="glider-type">ASH 30 Mi <span class="sep">|</span></span>
-                    <span class="glider-type highlight">ASH 31 Mi 21m <span class="sep">|</span></span>
+                    <span class="glider-type">ASH 31 Mi 21m <span class="sep">|</span></span>
                     <span class="glider-type">ASW 22 BL <span class="sep">|</span></span>
                     <span class="glider-type">ASW 22 BLE <span class="sep">|</span></span>
                     <span class="glider-type">Nimbus 4 <span class="sep">|</span></span>
@@ -84,8 +85,8 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">Antares 20E/21 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Antares 21E <span class="sep">|</span></span>
+                    <span class="glider-type">Antares 20E/21 <span class="sep">|</span></span>
+                    <span class="glider-type">Antares 21E <span class="sep">|</span></span>
                     <span class="glider-type">ASH 25 >= 26m <span class="sep">|</span></span>
                     <span class="glider-type">ASH 25 E >= 26m <span class="sep">|</span></span>
                     <span class="glider-type">ASH 25 EB 28 <span class="sep">|</span></span>
@@ -96,6 +97,7 @@ snapshot_kind: text
                     <span class="glider-type">LAK-17B 21m <span class="sep">|</span></span>
                     <span class="glider-type">LAK-17B FES 21m <span class="sep">|</span></span>
                     <span class="glider-type">LAK-17B T 21m <span class="sep">|</span></span>
+                    <span class="glider-type">LAK-17C FES 21m <span class="sep">|</span></span>
                     <span class="glider-type">Nimbus 4D <span class="sep">|</span></span>
                     <span class="glider-type">Nimbus 4DM <span class="sep">|</span></span>
                     <span class="glider-type">Nimbus 4DT</span>
@@ -104,7 +106,7 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">Antares 20E <span class="sep">|</span></span>
+                    <span class="glider-type">Antares 20E <span class="sep">|</span></span>
                     <span class="glider-type">ASH 25 <span class="sep">|</span></span>
                     <span class="glider-type">ASH 25 E <span class="sep">|</span></span>
                     <span class="glider-type">ASH 25 M <span class="sep">|</span></span>
@@ -212,6 +214,12 @@ snapshot_kind: text
                 </td>
                 <td>106</td>
             </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Perlan 2</span>
+                </td>
+                <td>105</td>
+            </tr>
         </table>
     
         <h2>18m Klasse</h2>
@@ -221,12 +229,13 @@ snapshot_kind: text
                     <span class="glider-type">AS 33 18m <span class="sep">|</span></span>
                     <span class="glider-type">AS 33 Es 18m <span class="sep">|</span></span>
                     <span class="glider-type">AS 33 Me 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Diana-3 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Diana-3 FES <span class="sep">|</span></span>
+                    <span class="glider-type">Diana 3 <span class="sep">|</span></span>
+                    <span class="glider-type">Diana 3 FES <span class="sep">|</span></span>
                     <span class="glider-type">JS3 18m <span class="sep">|</span></span>
                     <span class="glider-type">JS3 RES 18m <span class="sep">|</span></span>
                     <span class="glider-type">JS3 TJ 18m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 3 18m <span class="sep">|</span></span>
+                    <span class="glider-type">Ventus 3E 18m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 3F 18m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 3M 18m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 3T 18m</span>
@@ -241,6 +250,7 @@ snapshot_kind: text
                     <span class="glider-type">ASG 29 RES 18m <span class="sep">|</span></span>
                     <span class="glider-type">JS1 18m <span class="sep">|</span></span>
                     <span class="glider-type">JS1 TJ 18m <span class="sep">|</span></span>
+                    <span class="glider-type">JS2 18m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 2 cxa <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 2cxa 18m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 2cxa FES 18m</span>
@@ -279,6 +289,7 @@ snapshot_kind: text
                     <span class="glider-type">LAK-17B 18m <span class="sep">|</span></span>
                     <span class="glider-type">LAK-17B FES 18m <span class="sep">|</span></span>
                     <span class="glider-type">LAK-17B T 18m <span class="sep">|</span></span>
+                    <span class="glider-type">LAK-17C FES 18m <span class="sep">|</span></span>
                     <span class="glider-type">LS 10 18m <span class="sep">|</span></span>
                     <span class="glider-type">LS 10-st 18m</span>
                 </td>
@@ -316,18 +327,19 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">AS 34 Me 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">ASW 28 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">ASW 28 E 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus 2c 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus 2cFES 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus 2cT 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">LAK-19 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">LAK-19 T 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">LS 8 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">LS 8e 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">LS 8T 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Ventus a 16.6m</span>
+                    <span class="glider-type">AS 34 Me 18m <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 28 18m <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 28 B 18m <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 28 E 18m <span class="sep">|</span></span>
+                    <span class="glider-type">Discus 2c 18m <span class="sep">|</span></span>
+                    <span class="glider-type">Discus 2cFES 18m <span class="sep">|</span></span>
+                    <span class="glider-type">Discus 2cT 18m <span class="sep">|</span></span>
+                    <span class="glider-type">LAK-19 18m <span class="sep">|</span></span>
+                    <span class="glider-type">LAK-19 T 18m <span class="sep">|</span></span>
+                    <span class="glider-type">LS 8 18m <span class="sep">|</span></span>
+                    <span class="glider-type">LS 8e 18m <span class="sep">|</span></span>
+                    <span class="glider-type">LS 8T 18m <span class="sep">|</span></span>
+                    <span class="glider-type">Ventus a 16.6m</span>
                 </td>
                 <td>114</td>
             </tr>
@@ -368,11 +380,24 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
+                    <span class="glider-type">AN 66B <span class="sep">|</span></span>
                     <span class="glider-type">BS-1 <span class="sep">|</span></span>
                     <span class="glider-type">D 36 <span class="sep">|</span></span>
                     <span class="glider-type">Diamant 18</span>
                 </td>
                 <td>108</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">PIK-30</span>
+                </td>
+                <td>107</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Diamant 16.5</span>
+                </td>
+                <td>105</td>
             </tr>
             <tr>
                 <td>
@@ -431,10 +456,10 @@ snapshot_kind: text
                     <span class="glider-type">ASG 29 RES 15m <span class="sep">|</span></span>
                     <span class="glider-type">ASW 27 <span class="sep">|</span></span>
                     <span class="glider-type">ASW 27-J <span class="sep">|</span></span>
-                    <span class="glider-type highlight">DuckHawk <span class="sep">|</span></span>
+                    <span class="glider-type">DuckHawk <span class="sep">|</span></span>
                     <span class="glider-type">Mü 31 <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 2b <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Ventus 2bx <span class="sep">|</span></span>
+                    <span class="glider-type">Ventus 2bx <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 2c 15m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 2cM 15m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus 2cT 15m</span>
@@ -452,6 +477,7 @@ snapshot_kind: text
                     <span class="glider-type">LAK-17B 15m <span class="sep">|</span></span>
                     <span class="glider-type">LAK-17B FES 15m <span class="sep">|</span></span>
                     <span class="glider-type">LAK-17B T 15m <span class="sep">|</span></span>
+                    <span class="glider-type">LAK-17C FES 15m <span class="sep">|</span></span>
                     <span class="glider-type">LS 10 15m <span class="sep">|</span></span>
                     <span class="glider-type">LS 10-st 15m</span>
                 </td>
@@ -470,8 +496,9 @@ snapshot_kind: text
                 <td>
                     <span class="glider-type">ASW 20 WL <span class="sep">|</span></span>
                     <span class="glider-type">ASW 20-J WL <span class="sep">|</span></span>
+                    <span class="glider-type">HP 24 15m <span class="sep">|</span></span>
                     <span class="glider-type">LS 6 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Ventus a 15m</span>
+                    <span class="glider-type">Ventus a 15m</span>
                 </td>
                 <td>111</td>
             </tr>
@@ -485,10 +512,17 @@ snapshot_kind: text
                     <span class="glider-type">HpH 304 CZ <span class="sep">|</span></span>
                     <span class="glider-type">Ventus b 15m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus bT 15m <span class="sep">|</span></span>
+                    <span class="glider-type">Ventus c 15m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus cM 15m <span class="sep">|</span></span>
                     <span class="glider-type">Ventus cT 15m</span>
                 </td>
                 <td>110</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">LS 3 neo</span>
+                </td>
+                <td>109</td>
             </tr>
             <tr>
                 <td>
@@ -518,8 +552,8 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">Applebay Zuni II <span class="sep">|</span></span>
-                    <span class="glider-type highlight">CB-15 Crystal <span class="sep">|</span></span>
+                    <span class="glider-type">Applebay Zuni II <span class="sep">|</span></span>
+                    <span class="glider-type">CB-15 Crystal <span class="sep">|</span></span>
                     <span class="glider-type">G 104 Speed Astir 2</span>
                 </td>
                 <td>105</td>
@@ -543,6 +577,12 @@ snapshot_kind: text
                 </td>
                 <td>100</td>
             </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Vuk-T</span>
+                </td>
+                <td>98</td>
+            </tr>
         </table>
     
         <h2>Standardklasse</h2>
@@ -552,7 +592,7 @@ snapshot_kind: text
                     <span class="glider-type">Discus 2a <span class="sep">|</span></span>
                     <span class="glider-type">LS 8 neo <span class="sep">|</span></span>
                     <span class="glider-type">LS 8e neo <span class="sep">|</span></span>
-                    <span class="glider-type highlight">LS 8T neo</span>
+                    <span class="glider-type">LS 8T neo</span>
                 </td>
                 <td>109</td>
             </tr>
@@ -560,6 +600,7 @@ snapshot_kind: text
                 <td>
                     <span class="glider-type">AS 34 Me 15m <span class="sep">|</span></span>
                     <span class="glider-type">ASW 28 <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 28 B <span class="sep">|</span></span>
                     <span class="glider-type">ASW 28 E <span class="sep">|</span></span>
                     <span class="glider-type">Discus 2b <span class="sep">|</span></span>
                     <span class="glider-type">Discus 2c 15m <span class="sep">|</span></span>
@@ -578,25 +619,27 @@ snapshot_kind: text
             <tr>
                 <td>
                     <span class="glider-type">AK-8 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">ASW 24 E WL <span class="sep">|</span></span>
-                    <span class="glider-type highlight">ASW 24 WL <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 24 E WL <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 24 WL <span class="sep">|</span></span>
                     <span class="glider-type">Discus a <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus b WL <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus bM WL <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus bT WL <span class="sep">|</span></span>
+                    <span class="glider-type">Discus b WL <span class="sep">|</span></span>
+                    <span class="glider-type">Discus bM WL <span class="sep">|</span></span>
+                    <span class="glider-type">Discus bT WL <span class="sep">|</span></span>
                     <span class="glider-type">Genesis <span class="sep">|</span></span>
-                    <span class="glider-type">LS 7 WL</span>
+                    <span class="glider-type">LS 7 WL <span class="sep">|</span></span>
+                    <span class="glider-type">SZD-55-2 Nexus-e-Motion</span>
                 </td>
                 <td>107</td>
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">ASW 24 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">ASW 24 B <span class="sep">|</span></span>
-                    <span class="glider-type highlight">ASW 24 E <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus b <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus bM <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Discus bT <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 24 <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 24 B <span class="sep">|</span></span>
+                    <span class="glider-type">ASW 24 E <span class="sep">|</span></span>
+                    <span class="glider-type">Discus b <span class="sep">|</span></span>
+                    <span class="glider-type">Discus bM <span class="sep">|</span></span>
+                    <span class="glider-type">Discus bT <span class="sep">|</span></span>
+                    <span class="glider-type">LS 4 Jet neo <span class="sep">|</span></span>
                     <span class="glider-type">LS 4 neo <span class="sep">|</span></span>
                     <span class="glider-type">LS 7 <span class="sep">|</span></span>
                     <span class="glider-type">SZD-55-1 Nexus</span>
@@ -617,7 +660,8 @@ snapshot_kind: text
                     <span class="glider-type">AFH 24 <span class="sep">|</span></span>
                     <span class="glider-type">DG 300 <span class="sep">|</span></span>
                     <span class="glider-type">HpH 304C Wasp <span class="sep">|</span></span>
-                    <span class="glider-type">LS 4</span>
+                    <span class="glider-type">LS 4 <span class="sep">|</span></span>
+                    <span class="glider-type">LS 4 Jet</span>
                 </td>
                 <td>104</td>
             </tr>
@@ -625,6 +669,18 @@ snapshot_kind: text
     
         <h2>Clubklasse</h2>
         <table>
+            <tr>
+                <td>
+                    <span class="glider-type">FK-3</span>
+                </td>
+                <td>105</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">GP 14 Velo SE</span>
+                </td>
+                <td>104</td>
+            </tr>
             <tr>
                 <td>
                     <span class="glider-type">Falkon <span class="sep">|</span></span>
@@ -640,7 +696,9 @@ snapshot_kind: text
                     <span class="glider-type">Cirrus B 18.34m <span class="sep">|</span></span>
                     <span class="glider-type">DG 300 FG <span class="sep">|</span></span>
                     <span class="glider-type">Pegase <span class="sep">|</span></span>
-                    <span class="glider-type">Slingsby T.65 Vega</span>
+                    <span class="glider-type">Schweizer SGS 1-35A <span class="sep">|</span></span>
+                    <span class="glider-type">Slingsby T.65 Vega <span class="sep">|</span></span>
+                    <span class="glider-type">SZD-52 Krokus</span>
                 </td>
                 <td>102</td>
             </tr>
@@ -650,6 +708,7 @@ snapshot_kind: text
                     <span class="glider-type">H-301 <span class="sep">|</span></span>
                     <span class="glider-type">Hornet WL <span class="sep">|</span></span>
                     <span class="glider-type">LS 1-f neo <span class="sep">|</span></span>
+                    <span class="glider-type">Schreder HP-18 <span class="sep">|</span></span>
                     <span class="glider-type">SZD-41 Jantar Std. WL <span class="sep">|</span></span>
                     <span class="glider-type">SZD-48 Jantar Std. 2 WL <span class="sep">|</span></span>
                     <span class="glider-type">SZD-48-3 Jantar Std. 3 WL <span class="sep">|</span></span>
@@ -668,6 +727,7 @@ snapshot_kind: text
                     <span class="glider-type">Elfe 17m <span class="sep">|</span></span>
                     <span class="glider-type">G 102 Std. Astir <span class="sep">|</span></span>
                     <span class="glider-type">Hornet <span class="sep">|</span></span>
+                    <span class="glider-type">Hornet C <span class="sep">|</span></span>
                     <span class="glider-type">LS 1-e <span class="sep">|</span></span>
                     <span class="glider-type">LS 1-f <span class="sep">|</span></span>
                     <span class="glider-type">Phöbus B3 <span class="sep">|</span></span>
@@ -680,12 +740,15 @@ snapshot_kind: text
                     <span class="glider-type">SZD-41 Jantar Std. T <span class="sep">|</span></span>
                     <span class="glider-type">SZD-48 Jantar Std. 2 <span class="sep">|</span></span>
                     <span class="glider-type">SZD-48-3 Jantar Std. 3 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">SZD-59 15m</span>
+                    <span class="glider-type">SZD-59 15m</span>
                 </td>
                 <td>100</td>
             </tr>
             <tr>
                 <td>
+                    <span class="glider-type">LS 1-c neo <span class="sep">|</span></span>
+                    <span class="glider-type">LS 1-d neo <span class="sep">|</span></span>
+                    <span class="glider-type">Schweizer SGS 1-35 <span class="sep">|</span></span>
                     <span class="glider-type">Std. Cirrus <span class="sep">|</span></span>
                     <span class="glider-type">Std. Libelle WL</span>
                 </td>
@@ -723,6 +786,7 @@ snapshot_kind: text
             <tr>
                 <td>
                     <span class="glider-type">Club Libelle <span class="sep">|</span></span>
+                    <span class="glider-type">E-Birdy <span class="sep">|</span></span>
                     <span class="glider-type">Elfe S3 <span class="sep">|</span></span>
                     <span class="glider-type">Elfe S4 <span class="sep">|</span></span>
                     <span class="glider-type">G 102 Astir CS <span class="sep">|</span></span>
@@ -760,7 +824,8 @@ snapshot_kind: text
                     <span class="glider-type">Apis WR <span class="sep">|</span></span>
                     <span class="glider-type">Carat <span class="sep">|</span></span>
                     <span class="glider-type">G 102 Astir CS Jeans <span class="sep">|</span></span>
-                    <span class="glider-type highlight">SZD-59 Acro 13.2m</span>
+                    <span class="glider-type">Schweizer SGS 1-35C <span class="sep">|</span></span>
+                    <span class="glider-type">SZD-59 Acro 13.2m</span>
                 </td>
                 <td>93</td>
             </tr>
@@ -793,7 +858,7 @@ snapshot_kind: text
                     <span class="glider-type">ASK 18 <span class="sep">|</span></span>
                     <span class="glider-type">Geier <span class="sep">|</span></span>
                     <span class="glider-type">H-101 Salto <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Phoenix <span class="sep">|</span></span>
+                    <span class="glider-type">Phoenix <span class="sep">|</span></span>
                     <span class="glider-type">PIK-16 Vasama <span class="sep">|</span></span>
                     <span class="glider-type">Pilatus B4 RG <span class="sep">|</span></span>
                     <span class="glider-type">SB 5e <span class="sep">|</span></span>
@@ -820,8 +885,10 @@ snapshot_kind: text
                     <span class="glider-type">Solo L 33 <span class="sep">|</span></span>
                     <span class="glider-type">Std. Austria <span class="sep">|</span></span>
                     <span class="glider-type">SZD-30 Pirat <span class="sep">|</span></span>
-                    <span class="glider-type">VT-16 Orlic <span class="sep">|</span></span>
-                    <span class="glider-type">VT-16 Orlic 2 <span class="sep">|</span></span>
+                    <span class="glider-type">VT-116 Orlik 2 <span class="sep">|</span></span>
+                    <span class="glider-type">VT-16 Orlik <span class="sep">|</span></span>
+                    <span class="glider-type">Wassmer WA-26 <span class="sep">|</span></span>
+                    <span class="glider-type">Wassmer WA-28 <span class="sep">|</span></span>
                     <span class="glider-type">Zugvogel I <span class="sep">|</span></span>
                     <span class="glider-type">Zugvogel II <span class="sep">|</span></span>
                     <span class="glider-type">Zugvogel IV</span>
@@ -830,17 +897,21 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
+                    <span class="glider-type">Briegleb BG-12/16 <span class="sep">|</span></span>
+                    <span class="glider-type">K 10 <span class="sep">|</span></span>
                     <span class="glider-type">Ka 6 E <span class="sep">|</span></span>
-                    <span class="glider-type">Ka10 <span class="sep">|</span></span>
                     <span class="glider-type">PW 5 <span class="sep">|</span></span>
                     <span class="glider-type">Schweizer SGS 1-34 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">SparrowHawk</span>
+                    <span class="glider-type">SparrowHawk</span>
                 </td>
                 <td>85</td>
             </tr>
             <tr>
                 <td>
                     <span class="glider-type">AC-4 Russia <span class="sep">|</span></span>
+                    <span class="glider-type">AC-5K <span class="sep">|</span></span>
+                    <span class="glider-type">AC-5M <span class="sep">|</span></span>
+                    <span class="glider-type">AC-5Me <span class="sep">|</span></span>
                     <span class="glider-type">Alpin <span class="sep">|</span></span>
                     <span class="glider-type">Alpin T <span class="sep">|</span></span>
                     <span class="glider-type">H 30 <span class="sep">|</span></span>
@@ -873,7 +944,16 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
+                    <span class="glider-type">Briegleb BG-12 <span class="sep">|</span></span>
+                    <span class="glider-type">Schweizer SGS 1-23H</span>
+                </td>
+                <td>81</td>
+            </tr>
+            <tr>
+                <td>
                     <span class="glider-type">LCF 2 <span class="sep">|</span></span>
+                    <span class="glider-type">Reiher III <span class="sep">|</span></span>
+                    <span class="glider-type">Schweizer SGS 1-21 <span class="sep">|</span></span>
                     <span class="glider-type">SZD-12 Mucha 100 <span class="sep">|</span></span>
                     <span class="glider-type">Weihe 50</span>
                 </td>
@@ -881,6 +961,14 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
+                    <span class="glider-type">Morelli M-100 <span class="sep">|</span></span>
+                    <span class="glider-type">Schneider ES-60</span>
+                </td>
+                <td>79</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">KW-1 <span class="sep">|</span></span>
                     <span class="glider-type">L-Spatz <span class="sep">|</span></span>
                     <span class="glider-type">Lunak LF 107</span>
                 </td>
@@ -888,6 +976,8 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
+                    <span class="glider-type">Schweizer SGS 1-23D <span class="sep">|</span></span>
+                    <span class="glider-type">Schweizer SGS 1-23G <span class="sep">|</span></span>
                     <span class="glider-type">Slingsby T.41 Skylark 2 <span class="sep">|</span></span>
                     <span class="glider-type">Slingsby T.43 Skylark 3 <span class="sep">|</span></span>
                     <span class="glider-type">Swift S-1</span>
@@ -897,11 +987,14 @@ snapshot_kind: text
             <tr>
                 <td>
                     <span class="glider-type">Ahrens Delphin V1 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Archaeopteryx <span class="sep">|</span></span>
+                    <span class="glider-type">Archaeopteryx <span class="sep">|</span></span>
                     <span class="glider-type">Banjo <span class="sep">|</span></span>
                     <span class="glider-type">K 8 <span class="sep">|</span></span>
                     <span class="glider-type">Minimoa <span class="sep">|</span></span>
-                    <span class="glider-type">Schweizer SGS 1-36 Sprite</span>
+                    <span class="glider-type">Schweizer SGS 1-36 Sprite <span class="sep">|</span></span>
+                    <span class="glider-type">Slingsby T.13 Petrel <span class="sep">|</span></span>
+                    <span class="glider-type">Swift-Light <span class="sep">|</span></span>
+                    <span class="glider-type">Swift-Light E</span>
                 </td>
                 <td>76</td>
             </tr>
@@ -922,28 +1015,38 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type">Piccolo</span>
+                    <span class="glider-type">Briegleb BG-6</span>
+                </td>
+                <td>71</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Piccolo <span class="sep">|</span></span>
+                    <span class="glider-type">Schweizer SGS 1-23</span>
                 </td>
                 <td>68</td>
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">Hütter H28</span>
+                    <span class="glider-type">Hütter H28</span>
                 </td>
                 <td>67</td>
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">ES-56 Nymph <span class="sep">|</span></span>
+                    <span class="glider-type">ES-56 Nymph <span class="sep">|</span></span>
+                    <span class="glider-type">Mü 13 E Bergfalke I <span class="sep">|</span></span>
                     <span class="glider-type">Song</span>
                 </td>
                 <td>65</td>
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">Mü 17 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Olympia Meise <span class="sep">|</span></span>
-                    <span class="glider-type">Stratos 2e</span>
+                    <span class="glider-type">Mü 17 <span class="sep">|</span></span>
+                    <span class="glider-type">Olympia Meise <span class="sep">|</span></span>
+                    <span class="glider-type">Stratos 2e <span class="sep">|</span></span>
+                    <span class="glider-type">Stratos 300 <span class="sep">|</span></span>
+                    <span class="glider-type">WLM-1</span>
                 </td>
                 <td>64</td>
             </tr>
@@ -955,9 +1058,17 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type">Rhönsperber</span>
+                    <span class="glider-type">Rhönsperber <span class="sep">|</span></span>
+                    <span class="glider-type">S18 II <span class="sep">|</span></span>
+                    <span class="glider-type">Slingsby T.6 Kirby Kite</span>
                 </td>
                 <td>62</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Laister-Kauffman LK-10</span>
+                </td>
+                <td>61</td>
             </tr>
             <tr>
                 <td>
@@ -970,13 +1081,34 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">Cumulus CU IIf <span class="sep">|</span></span>
+                    <span class="glider-type">Cumulus CU IIf <span class="sep">|</span></span>
                     <span class="glider-type">Grunau Baby <span class="sep">|</span></span>
+                    <span class="glider-type">Gö-4 <span class="sep">|</span></span>
                     <span class="glider-type">Ka 1 <span class="sep">|</span></span>
                     <span class="glider-type">Ka 3 <span class="sep">|</span></span>
+                    <span class="glider-type">Robinson JR-V <span class="sep">|</span></span>
+                    <span class="glider-type">Schweizer SGU 1-19 <span class="sep">|</span></span>
                     <span class="glider-type">Slingsby T.30 Prefect</span>
                 </td>
                 <td>54</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Bowlus Baby Albatross</span>
+                </td>
+                <td>51</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Franklin PS-2</span>
+                </td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">PW 2</span>
+                </td>
+                <td>47</td>
             </tr>
         </table>
     
@@ -986,6 +1118,7 @@ snapshot_kind: text
                 <td>
                     <span class="glider-type">Arcus <span class="sep">|</span></span>
                     <span class="glider-type">Arcus E <span class="sep">|</span></span>
+                    <span class="glider-type">Arcus J <span class="sep">|</span></span>
                     <span class="glider-type">Arcus M <span class="sep">|</span></span>
                     <span class="glider-type">Arcus T <span class="sep">|</span></span>
                     <span class="glider-type">ASG 32 <span class="sep">|</span></span>
@@ -1015,10 +1148,10 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">DG 1000E neo 20m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">DG 1000M neo 20m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">DG 1000S neo 20m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">DG 1000T neo 20m <span class="sep">|</span></span>
+                    <span class="glider-type">DG 1000E neo 20m <span class="sep">|</span></span>
+                    <span class="glider-type">DG 1000M neo 20m <span class="sep">|</span></span>
+                    <span class="glider-type">DG 1000S neo 20m <span class="sep">|</span></span>
+                    <span class="glider-type">DG 1000T neo 20m <span class="sep">|</span></span>
                     <span class="glider-type">Duo Discus <span class="sep">|</span></span>
                     <span class="glider-type">Duo Discus T</span>
                 </td>
@@ -1026,9 +1159,9 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">DG 1000M 20m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">DG 1000S 20m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">DG 1000T 20m</span>
+                    <span class="glider-type">DG 1000M 20m <span class="sep">|</span></span>
+                    <span class="glider-type">DG 1000S 20m <span class="sep">|</span></span>
+                    <span class="glider-type">DG 1000T 20m</span>
                 </td>
                 <td>111</td>
             </tr>
@@ -1051,8 +1184,9 @@ snapshot_kind: text
             <tr>
                 <td>
                     <span class="glider-type">DG 1000E neo 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">DG 1000S neo 18m <span class="sep">|</span></span>
-                    <span class="glider-type highlight">DG 1000T neo 18m</span>
+                    <span class="glider-type">DG 1000S neo 18m <span class="sep">|</span></span>
+                    <span class="glider-type">DG 1000T neo 18m <span class="sep">|</span></span>
+                    <span class="glider-type">ICA IS-32</span>
                 </td>
                 <td>107</td>
             </tr>
@@ -1070,7 +1204,7 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">DG 1000 neo 18m FG</span>
+                    <span class="glider-type">DG 1000 neo 18m FG</span>
                 </td>
                 <td>105</td>
             </tr>
@@ -1092,7 +1226,7 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type highlight">C-201B Marianne <span class="sep">|</span></span>
+                    <span class="glider-type">C-201B Marianne <span class="sep">|</span></span>
                     <span class="glider-type">DG 500 Trainer RG <span class="sep">|</span></span>
                     <span class="glider-type">DG 505 6 Orion <span class="sep">|</span></span>
                     <span class="glider-type">DG 505 Trainer RG</span>
@@ -1185,7 +1319,8 @@ snapshot_kind: text
             </tr>
             <tr>
                 <td>
-                    <span class="glider-type">ASK 13</span>
+                    <span class="glider-type">ASK 13 <span class="sep">|</span></span>
+                    <span class="glider-type">CVT M-200</span>
                 </td>
                 <td>79</td>
             </tr>
@@ -1195,14 +1330,20 @@ snapshot_kind: text
                     <span class="glider-type">Ka 2 b <span class="sep">|</span></span>
                     <span class="glider-type">L-13 Blaník <span class="sep">|</span></span>
                     <span class="glider-type">L23 SuperBlanik <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Lambada UFM-15 <span class="sep">|</span></span>
+                    <span class="glider-type">Lambada UFM-15 <span class="sep">|</span></span>
                     <span class="glider-type">Pipistrel Sinus <span class="sep">|</span></span>
-                    <span class="glider-type">RF 5 B <span class="sep">|</span></span>
                     <span class="glider-type">RF-10 <span class="sep">|</span></span>
                     <span class="glider-type">RF-5B <span class="sep">|</span></span>
-                    <span class="glider-type">SF 28 A</span>
+                    <span class="glider-type">SF 28 A <span class="sep">|</span></span>
+                    <span class="glider-type">SunDancer DF-15</span>
                 </td>
                 <td>78</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Mg 19</span>
+                </td>
+                <td>77</td>
             </tr>
             <tr>
                 <td>
@@ -1211,7 +1352,8 @@ snapshot_kind: text
                     <span class="glider-type">IS 28 M <span class="sep">|</span></span>
                     <span class="glider-type">Ka 2 <span class="sep">|</span></span>
                     <span class="glider-type">Kranich 2 <span class="sep">|</span></span>
-                    <span class="glider-type highlight">Lambada UFM-13 <span class="sep">|</span></span>
+                    <span class="glider-type">Lambada UFM-13 <span class="sep">|</span></span>
+                    <span class="glider-type">SunDancer DF-13 <span class="sep">|</span></span>
                     <span class="glider-type">SZD-45 Ogar <span class="sep">|</span></span>
                     <span class="glider-type">SZD-9 Bocian</span>
                 </td>
@@ -1226,6 +1368,8 @@ snapshot_kind: text
             <tr>
                 <td>
                     <span class="glider-type">Bergfalke II <span class="sep">|</span></span>
+                    <span class="glider-type">L-13SE Vivat <span class="sep">|</span></span>
+                    <span class="glider-type">Lehrmeister FES-530 <span class="sep">|</span></span>
                     <span class="glider-type">RF-5 <span class="sep">|</span></span>
                     <span class="glider-type">SF 25 E</span>
                 </td>
@@ -1283,6 +1427,12 @@ snapshot_kind: text
                     <span class="glider-type">Specht</span>
                 </td>
                 <td>54</td>
+            </tr>
+            <tr>
+                <td>
+                    <span class="glider-type">Schweizer SGU 2-22</span>
+                </td>
+                <td>50</td>
             </tr>
         </table>
     
