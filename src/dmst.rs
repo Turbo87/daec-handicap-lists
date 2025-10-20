@@ -26,8 +26,8 @@ pub fn generate_dmst(opts: &Options) -> anyhow::Result<()> {
             .parse::<u32>()
             .context("Failed to parse id")?;
         let name = record.get(2).unwrap().to_string();
-        let _old_handicap = record.get(19).unwrap().parse::<u8>()?;
-        let handicap = record.get(20).unwrap().parse::<u8>()?;
+        let _old_handicap = record.get(20).unwrap().parse::<u8>()?;
+        let handicap = record.get(21).unwrap().parse::<u8>()?;
         let class = record.get(4).unwrap().to_string();
 
         // let highlight = id > 593 || handicap != old_handicap;
