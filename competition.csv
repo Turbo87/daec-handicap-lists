@@ -1,84 +1,88 @@
 Model,Class,Handicap,18,15,Std,Club,Double
 EB 29R,Open,126,,,,,
+EB 29 (900 kg),Open,125,,,,,
 EB 29DR,Open,125,,,,,
+JS5,Open,125,,,,,
+EB 29 (850 kg),Open,124,,,,,
 JS1C 21m,Open,124,,,,,
 JS1C TJ 21m,Open,124,,,,,
 JS2 21m,Open,124,,,,,
 Antares 23E,Open,123,,,,,
 Antares 23T,Open,123,,,,,
+EB 29D (850 kg),Open,123,,,,,
 Nixus,Open,123,,,,,
 Quintus,Open,123,,,,,
 ASH 31 Mi 21m,Open,122,,,,,
 EB 28,Open,122,,,,,
 EB 28 edition,Open,122,,,,,
-EB 29,Open,122,,,,,
 NimEta X,Open,122,,,,,
 Antares 20E/21,Open,121,,,,,
 Antares 21E,Open,121,,,,,
 ASH 30 Mi,Open,121,,,,,
-EB 29D,Open,121,,,,,
+ASW 22 BLE (850 kg),Open,121,,,,,
 Eta,Open,121,,,,,
-Ventus 3 18m,18,121,x,,,,
-Ventus 3T 18m,18,121,x,,,,
+Nimbus 4M (850 kg),Open,121,,,,,
+Nimbus 4T (850 kg),Open,121,,,,,
 Antares 20E,Open,120,,,,,
 AS 33 18m,18,120,x,,,,
 AS 33 Es 18m,18,120,x,,,,
 AS 33 Me 18m,18,120,x,,,,
 ASH 25 EB 28,Open,120,,,,,
+ASW 22 BLE (810 kg),Open,120,,,,,
 Diana-3,18,120,x,,,,
 JS3 18m,18,120,x,,,,
 JS3 RES 18m,18,120,x,,,,
 JS3 TJ 18m,18,120,x,,,,
 LAK-17B 21m,Open,120,,,,,
 LAK-17B T 21m,Open,120,,,,,
-Ventus 3F 18m,18,120,x,,,,
+Nimbus 4M (800 kg),Open,120,,,,,
+Nimbus 4T (800 kg),Open,120,,,,,
+Ventus 3 Sport 18m,18,120,x,,,,
+Ventus 3T Sport 18m,18,120,x,,,,
 ASG 29 18m,18,119,x,,,,
 ASG 29 E 18m,18,119,x,,,,
 ASG 29 Es 18m,18,119,x,,,,
 ASG 29 RES 18m,18,119,x,,,,
 ASH 25 M >= 26m,Open,119,,,,,
-ASW 22 BL,Open,119,,,,,
-ASW 22 BLE,Open,119,,,,,
+ASH 25 Mi >= 26m (790 kg),Open,119,,,,,
+ASW 22 BE (810 kg),Open,119,,,,,
+ASW 22 BL (750 kg),Open,119,,,,,
 Diana-3 FES,18,119,x,,,,
 JS1 18m,18,119,x,,,,
 JS1 TJ 18m,18,119,x,,,,
 JS2 18m,18,119,x,,,,
 LAK-17B FES 21m,Open,119,,,,,
 LAK-17C FES 21m,Open,119,,,,,
-Nimbus 4,Open,119,,,,,
-Nimbus 4M,Open,119,,,,,
-Nimbus 4T,Open,119,,,,,
+Nimbus 4 (750 kg),Open,119,,,,,
+Nimbus 4DM (820 kg),Open,119,,,,,
+Nimbus 4DT (800 kg),Open,119,,,,,
+Ventus 3F Sport 18m,18,119,x,,,,
 Ventus 3M 18m,18,119,x,,,,
-Arcus,Double,118,,,,,x
-Arcus E,Double,118,,,,,x
-Arcus J,Double,118,,,,,x
-Arcus M,Double,118,,,,,x
-Arcus T,Double,118,,,,,x
-ASG 32,Double,118,,,,,x
-ASG 32 EL,Double,118,,,,,x
-ASG 32 Mi,Double,118,,,,,x
-ASH 25 >= 26m,Open,118,,,,,
-ASH 25 E >= 26m,Open,118,,,,,
-ASH 25 Mi >= 26m,Open,118,,,,,
+Ventus 3T Performance 18m,18,119,x,,,,
+Arcus (all variants 850 kg),Open,118,,,,,
+ASG32 (all variants 850 kg),Open,118,,,,,
+ASH 25 >= 26m (750 kg),Open,118,,,,,
+ASH 25 E >= 26m (750 kg),Open,118,,,,,
 ASH 31 Mi 18m,18,118,x,,,,
-ASW 22 B,Open,118,,,,,
-ASW 22 BE,Open,118,,,,,
+ASW 22 B (750 kg),Open,118,,,,,
 LAK-20M 26m,Open,118,,,,,
 LAK-20T 26m,Open,118,,,,,
 Nimbus 3 25.5m,Open,118,,,,,
 Nimbus 3M 25.5m,Open,118,,,,,
 Nimbus 3T 25.5m,Open,118,,,,,
-Nimbus 4D,Open,118,,,,,
-Nimbus 4DM,Open,118,,,,,
-Nimbus 4DT,Open,118,,,,,
+Nimbus 4D (750 kg),Open,118,,,,,
 Ventus 2 cxa,18,118,x,,,,
-Ventus 2c 18m,18,118,x,,,,
-Ventus 2cM 18m,18,118,x,,,,
-Ventus 2cT 18m,18,118,x,,,,
 Ventus 2cxa 18m,18,118,x,,,,
 Antares 18S,18,117,x,,,,
 Antares 18T,18,117,x,,,,
+Arcus E (800 kg),Double,117,,,,,x
+Arcus J (800 kg),Double,117,,,,,x
+Arcus M (800 kg),Double,117,,,,,x
+Arcus T (800 kg),Double,117,,,,,x
 AS 22-2,Open,117,,,,,
+ASG 32 (800 kg),Double,117,,,,,x
+ASG 32 EL (800 kg),Double,117,,,,,x
+ASG 32 Mi (800 kg),Double,117,,,,,x
 ASW 22 24m,Open,117,,,,,
 ASW 22E 24m,Open,117,,,,,
 DG 808C Competition 18m,18,117,x,,,,
@@ -86,7 +90,7 @@ DG 808S 18m,18,117,x,,,,
 HpH 304 MS Shark,18,117,x,,,,
 HpH 304 S Shark,18,117,x,,,,
 HpH 304 SJ Shark,18,117,x,,,,
-HpH 304 TS Twin Shark,Double,117,,,,,x
+HpH 304 TS Twin Shark (850 kg),Open,117,,,,,
 LS 10 18m,18,117,x,,,,
 LS 10-st 18m,18,117,x,,,,
 Nimbus 3 24.5m,Open,117,,,,,
@@ -98,6 +102,7 @@ Ventus 2cx 18m,18,117,x,,,,
 Ventus 2cxa FES 18m,18,117,x,,,,
 Ventus 2cxM 18m,18,117,x,,,,
 Ventus 2cxT 18m,18,117,x,,,,
+Arcus (750 kg),Double,116,,,,,x
 ASH 25,Open,116,,,,,
 ASH 25 E,Open,116,,,,,
 ASH 25 M,Open,116,,,,,
@@ -109,6 +114,7 @@ DG 800LA 18m,18,116,x,,,,
 DG 800S 18m,18,116,x,,,,
 DG 808C Classic 18m,18,116,x,,,,
 HpH 304 ES Shark,18,116,x,,,,
+HpH 304 TS Twin Shark (800 kg),Double,116,,,,,x
 LAK-17B 18m,18,116,x,,,,
 LAK-17B T 18m,18,116,x,,,,
 LAK-20M 23m,Open,116,,,,,
@@ -116,6 +122,9 @@ LAK-20T 23m,Open,116,,,,,
 Nimbus 3D 24.6m,Open,116,,,,,
 Nimbus 3DM 24.6m,Open,116,,,,,
 Nimbus 3DT 24.6m,Open,116,,,,,
+Ventus 2c 18m (525 kg),18,116,x,,,,
+Ventus 2cM 18m (525 kg),18,116,x,,,,
+Ventus 2cT 18m (525 kg),18,116,x,,,,
 DG 600 18m,18,115,x,,,,
 DG 600M 18m,18,115,x,,,,
 LAK-17A 18m,18,115,x,,,,
@@ -135,18 +144,24 @@ LAK-19 18m,18,114,x,,,,
 LAK-19 T 18m,18,114,x,,,,
 LS 5,Open,114,,,,,
 LS 6 17.5m,18,114,x,,,,
-LS 8 18m,18,114,x,,,,
-LS 8T 18m,18,114,x,,,,
+LS 8 18m (575 kg),18,114,x,,,,
+LS 8T 18m (575 kg),18,114,x,,,,
 LS 9,18,114,x,,,,
 SZD-56-2 Diana 2,15,114,x,x,,,
 AS 33 15m,15,113,x,x,,,
 AS 33 Es 15m,15,113,x,x,,,
 AS 33 Me 15m,15,113,x,x,,,
 Discus 2cFES 18m,18,113,x,,,,
+Duo Discus X (750 kg),Double,113,,,,,x
+Duo Discus XL (750 kg),Double,113,,,,,x
+Duo Discus XLT (750 kg),Double,113,,,,,x
+Duo Discus XT (750 kg),Double,113,,,,,x
 JS3 15m,15,113,x,x,,,
 JS3 RES 15m,15,113,x,x,,,
 JS3 TJ 15m,15,113,x,x,,,
+LS 8 18m (525 kg),18,113,x,,,,
 LS 8e 18m,18,113,x,,,,
+LS 8T 18m (525 kg),18,113,x,,,,
 SB 10,Open,113,,,,,
 SZD-56-2 Diana 2 FES,15,113,x,x,,,
 Ventus 2a,15,113,x,x,,,
@@ -164,17 +179,17 @@ ASG 29 RES 15m,15,112,x,x,,,
 ASW 17,Open,112,,,,,
 ASW 27,15,112,x,x,,,
 ASW 27-J,15,112,x,x,,,
+DG 1000 (790 kg),Double,112,,,,,x
 DG 600 17m,18,112,x,,,,
 DG 600M 17m,18,112,x,,,,
 DuckHawk,15,112,x,x,,,
-Duo Discus T WL,Double,112,,,,,x
-Duo Discus WL,Double,112,,,,,x
-Duo Discus X,Double,112,,,,,x
-Duo Discus XL,Double,112,,,,,x
+Duo Discus T WL (700 kg),Double,112,,,,,x
+Duo Discus WL (700 kg),Double,112,,,,,x
+Duo Discus X (700 kg),Double,112,,,,,x
 Duo Discus XL FES,Double,112,,,,,x
-Duo Discus XLT,Double,112,,,,,x
-Duo Discus XT,Double,112,,,,,x
+Duo Discus XT (700 kg),Double,112,,,,,x
 Glasflügel 604,Open,112,,,,,
+LAK 12R 20m,Double,112,,,,,x
 LS 11,Double,112,,,,,x
 Mü 31,15,112,x,x,,,
 Nimbus 2,Open,112,,,,,
@@ -191,14 +206,15 @@ Ventus 3F Sport 15m,15,112,x,x,,,
 Ventus 3M 15m,15,112,x,x,,,
 Ventus 3T Performance 15m,15,112,x,x,,,
 Ventus a 16.6m,18,112,x,,,,
+DG 1000e (790 kg),Double,111,,,,,x
 DG 1000M 20m,Double,111,,,,,x
-DG 1000M neo 20m,Double,111,,,,,x
+DG 1000M neo 20m (750 kg),Double,111,,,,,x
 DG 1000S 20m,Double,111,,,,,x
-DG 1000S neo 20m,Double,111,,,,,x
+DG 1000S neo 20m (750 kg),Double,111,,,,,x
 DG 1000T 20m,Double,111,,,,,x
-DG 1000T neo 20m,Double,111,,,,,x
-Duo Discus,Double,111,,,,,x
-Duo Discus T,Double,111,,,,,x
+DG 1000T neo 20m (750 kg),Double,111,,,,,x
+Duo Discus (700 kg),Double,111,,,,,x
+Duo Discus T (700 kg),Double,111,,,,,x
 Kestrel 22m,Open,111,,,,,
 LAK-12,Open,111,,,,,
 LAK-17B 15m,15,111,x,x,,,
@@ -209,7 +225,7 @@ Ventus b 16.6m,18,111,x,,,,
 Ventus bT 16.6m,18,111,x,,,,
 ASW 20 16.6m,18,110,x,,,,
 ASW 20-J 16.6m,18,110,x,,,,
-DG 1000e neo 20m,Double,110,,,,,x
+DG 1000e neo 20m (750 kg),Double,110,,,,,x
 DG 800A/B 15m,15,110,x,x,,,
 DG 800LA 15m,15,110,x,x,,,
 DG 800S 15m,15,110,x,x,,,
