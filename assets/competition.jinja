@@ -45,8 +45,9 @@
         </p>
         {% endmacro %}
 
-        {{ section(m15) }}
-        {{ section(standard) }}
+        {%- for class in classes %}
+        {{ section(class) }}
+        {%- endfor %}
 
         <h2>Klassenübergreifend</h2>
         <table>

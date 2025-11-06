@@ -75,16 +75,17 @@ pub fn generate_competition(opts: &Options) -> anyhow::Result<()> {
         .deserialize()
         .collect::<Result<Vec<Record>, _>>()?;
 
-    let m15 = CompetitionClass::from("15m Klasse", 114., 106., &handicaps, |r| r.is_15m);
-    let standard =
-        CompetitionClass::from("Standardklasse", 110., 102., &handicaps, |r| r.is_standard);
+    let classes = vec![
+        CompetitionClass::from("15m Klasse", 114., 106., &handicaps, |r| r.is_15m),
+        CompetitionClass::from("Standardklasse", 110., 102., &handicaps, |r| r.is_standard),
+    ];
 
     let mut env = Environment::new();
     env.add_filter("format_handicap", format_handicap);
 
     let template = fs::read_to_string(opts.assets.join("competition.jinja"))?;
     let template = env.template_from_str(&template)?;
-    let output = template.render(context! { handicaps, m15, standard })?;
+    let output = template.render(context! { handicaps, classes })?;
 
     fs::create_dir_all(&opts.output)?;
     let file_path = opts.output.join("competition.html");
