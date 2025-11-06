@@ -6,7 +6,7 @@ expression: html
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>DAeC Indexliste: Wettbewerb 2025</title>
+  <title>DAeC Indexliste: Wettbewerb 2026</title>
   <link href="https://fonts.googleapis.com/css?family=Domine&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
   <link href="styles.css" rel="stylesheet">
@@ -14,7 +14,7 @@ expression: html
 <body>
 <h1 class="header">
   <img src="daec-logo.svg" class="logo">
-  DAeC Indexliste: Wettbewerb 2025
+  DAeC Indexliste: Wettbewerb 2026
 </h1>
 <table>
   <thead>
