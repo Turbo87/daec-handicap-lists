@@ -30,6 +30,339 @@ expression: html
       <div class="content">
         
         
+        <h2>Offene Klasse</h2>
+        <table>
+            <tr>
+              <td>
+                  <span class="glider-type">EB 29R</span>
+              </td>
+              <td>1.000</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">EB 29 (900 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">EB 29DR <span class="sep">|</span></span>
+                  <span class="glider-type">JS5</span>
+              </td>
+              <td>0.992</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">EB 29 (850 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">JS1C 21m <span class="sep">|</span></span>
+                  <span class="glider-type">JS1C TJ 21m <span class="sep">|</span></span>
+                  <span class="glider-type">JS2 21m</span>
+              </td>
+              <td>0.984</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">Antares 23E <span class="sep">|</span></span>
+                  <span class="glider-type">Antares 23T <span class="sep">|</span></span>
+                  <span class="glider-type">EB 29D (850 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Nixus <span class="sep">|</span></span>
+                  <span class="glider-type">Quintus</span>
+              </td>
+              <td>0.976</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASH 31 Mi 21m <span class="sep">|</span></span>
+                  <span class="glider-type">EB 28 <span class="sep">|</span></span>
+                  <span class="glider-type">EB 28 edition <span class="sep">|</span></span>
+                  <span class="glider-type">NimEta X</span>
+              </td>
+              <td>0.968</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">Antares 20E/21 <span class="sep">|</span></span>
+                  <span class="glider-type">Antares 21E <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 30 Mi <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 22 BLE (850 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Eta <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 4M (850 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 4T (850 kg)</span>
+              </td>
+              <td>0.960</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">Antares 20E <span class="sep">|</span></span>
+                  <span class="glider-type">AS 33 18m <span class="sep">|</span></span>
+                  <span class="glider-type">AS 33 Es 18m <span class="sep">|</span></span>
+                  <span class="glider-type">AS 33 Me 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 EB 28 <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 22 BLE (810 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Diana-3 <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 RES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 TJ 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17B 21m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17B T 21m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 4M (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 4T (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3 Sport 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3T Sport 18m</span>
+              </td>
+              <td>0.952</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASG 29 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 E 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 Es 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 RES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 M >= 26m <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 Mi >= 26m (790 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 22 BE (810 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 22 BL (750 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Diana-3 FES <span class="sep">|</span></span>
+                  <span class="glider-type">JS1 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS1 TJ 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS2 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17B FES 21m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17C FES 21m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 4 (750 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 4DM (820 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 4DT (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3F Sport 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3M 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3T Performance 18m</span>
+              </td>
+              <td>0.944</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">Arcus (all variants 850 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASG32 (all variants 850 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 >= 26m (750 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 E >= 26m (750 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 31 Mi 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 22 B (750 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-20M 26m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-20T 26m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 3 25.5m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 3M 25.5m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 3T 25.5m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 4D (750 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2 cxa <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxa 18m</span>
+              </td>
+              <td>0.937</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">Antares 18S <span class="sep">|</span></span>
+                  <span class="glider-type">Antares 18T <span class="sep">|</span></span>
+                  <span class="glider-type">Arcus E (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Arcus J (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Arcus M (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Arcus T (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">AS 22-2 <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 32 (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 32 EL (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 32 Mi (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 22 24m <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 22E 24m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 808C Competition 18m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 808S 18m <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 MS Shark <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 S Shark <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 SJ Shark <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 TS Twin Shark (850 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">LS 10 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 10-st 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 3 24.5m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 3D 25.6m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 3DM 25.6m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 3DT 25.6m <span class="sep">|</span></span>
+                  <span class="glider-type">Nimbus 3T 24.5m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cx 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxa FES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxM 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxT 18m</span>
+              </td>
+              <td>0.929</td>
+            </tr>
+        </table>
+        <p class="comment">
+          Flugzeuge, die der Klassendefinition entsprechen und in der klassenübergreifenden Liste
+          einen Index von <b>117</b> oder weniger haben, erhalten einen Index von
+          <b>0.929</b>.
+        </p>
+        
+        
+        <h2>18m Klasse</h2>
+        <table>
+            <tr>
+              <td>
+                  <span class="glider-type">AS 33 18m <span class="sep">|</span></span>
+                  <span class="glider-type">AS 33 Es 18m <span class="sep">|</span></span>
+                  <span class="glider-type">AS 33 Me 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Diana-3 <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 RES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 TJ 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3 Sport 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3T Sport 18m</span>
+              </td>
+              <td>1.000</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASG 29 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 E 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 Es 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 RES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Diana-3 FES <span class="sep">|</span></span>
+                  <span class="glider-type">JS1 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS1 TJ 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS2 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3F Sport 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3M 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3T Performance 18m</span>
+              </td>
+              <td>0.992</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASH 31 Mi 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2 cxa <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxa 18m</span>
+              </td>
+              <td>0.983</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">Antares 18S <span class="sep">|</span></span>
+                  <span class="glider-type">Antares 18T <span class="sep">|</span></span>
+                  <span class="glider-type">DG 808C Competition 18m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 808S 18m <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 MS Shark <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 S Shark <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 SJ Shark <span class="sep">|</span></span>
+                  <span class="glider-type">LS 10 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 10-st 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cx 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxa FES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxM 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxT 18m</span>
+              </td>
+              <td>0.975</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASH 26 <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 26 E <span class="sep">|</span></span>
+                  <span class="glider-type">DG 800A/B 18m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 800LA 18m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 800S 18m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 808C Classic 18m <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 ES Shark <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17B 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17B T 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2c 18m (525 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cM 18m (525 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cT 18m (525 kg)</span>
+              </td>
+              <td>0.967</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">DG 600 18m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 600M 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17A 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17A T 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17B FES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17C FES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 6 18m <span class="sep">|</span></span>
+                  <span class="glider-type">SB 14</span>
+              </td>
+              <td>0.958</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">AS 34 Me 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 28 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 28 E 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2c 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2cT 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-19 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-19 T 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 6 17.5m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 18m (575 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8T 18m (575 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">LS 9 <span class="sep">|</span></span>
+                  <span class="glider-type">SZD-56-2 Diana 2</span>
+              </td>
+              <td>0.950</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">AS 33 15m <span class="sep">|</span></span>
+                  <span class="glider-type">AS 33 Es 15m <span class="sep">|</span></span>
+                  <span class="glider-type">AS 33 Me 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2cFES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 15m <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 RES 15m <span class="sep">|</span></span>
+                  <span class="glider-type">JS3 TJ 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 18m (525 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8e 18m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8T 18m (525 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">SZD-56-2 Diana 2 FES <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2a <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2ax <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cxa 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3 Sport 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3T Sport 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus c 17.6m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus cM 17.6m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus cT 17.6m</span>
+              </td>
+              <td>0.942</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASG 29 15m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 E 15m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 Es 15m <span class="sep">|</span></span>
+                  <span class="glider-type">ASG 29 RES 15m <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 27 <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 27-J <span class="sep">|</span></span>
+                  <span class="glider-type">DG 600 17m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 600M 17m <span class="sep">|</span></span>
+                  <span class="glider-type">DuckHawk <span class="sep">|</span></span>
+                  <span class="glider-type">Mü 31 <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2b <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2bx <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2c 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cM 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 2cT 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3F Sport 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3M 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3T Performance 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus a 16.6m</span>
+              </td>
+              <td>0.933</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">LAK-17B 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17B T 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus b 16.6m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus bT 16.6m</span>
+              </td>
+              <td>0.925</td>
+            </tr>
+        </table>
+        <p class="comment">
+          Flugzeuge, die der Klassendefinition entsprechen und in der klassenübergreifenden Liste
+          einen Index von <b>111</b> oder weniger haben, erhalten einen Index von
+          <b>0.925</b>.
+        </p>
+        
+        
         <h2>15m Klasse</h2>
         <table>
             <tr>
@@ -287,6 +620,163 @@ expression: html
             <tr>
               <td>
                   <span class="glider-type">DG 300 FG</span>
+              </td>
+              <td>0.927</td>
+            </tr>
+        </table>
+        <p class="comment">
+          Flugzeuge, die der Klassendefinition entsprechen und in der klassenübergreifenden Liste
+          einen Index von <b>102</b> oder weniger haben, erhalten einen Index von
+          <b>0.927</b>.
+        </p>
+        
+        
+        <h2>Standardklasse (Junioren)</h2>
+        <table>
+            <tr>
+              <td>
+                  <span class="glider-type">DG 800A/B 15m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 800LA 15m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 800S 15m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 808C 15m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 808S 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2a <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17A 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17A T 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17B FES 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-17C FES 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 10 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 10-st 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 6 neo <span class="sep">|</span></span>
+                  <span class="glider-type">LS 6 WL <span class="sep">|</span></span>
+                  <span class="glider-type">SZD-56-1 Diana <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus a 15m WL</span>
+              </td>
+              <td>1.000</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASW 20  B/C WL <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 20 B/C-J WL <span class="sep">|</span></span>
+                  <span class="glider-type">DG 600 <span class="sep">|</span></span>
+                  <span class="glider-type">DG 600M <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2b <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2c 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2cT 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2T <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-19 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LAK-19 T 15m <span class="sep">|</span></span>
+                  <span class="glider-type">LS 6 <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 neo <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8T <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8T neo <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus a 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus b 15m WL</span>
+              </td>
+              <td>0.991</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">AK-8 <span class="sep">|</span></span>
+                  <span class="glider-type">AS 34 Me 15m <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 20 B/C <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 20 B/C-J <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 20,F,L WL <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 20,F,L-J WL <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 28 <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 28 E <span class="sep">|</span></span>
+                  <span class="glider-type">Discus 2cFES 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Discus a WL <span class="sep">|</span></span>
+                  <span class="glider-type">fs 32 <span class="sep">|</span></span>
+                  <span class="glider-type">Glasflügel 304 <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304 CZ <span class="sep">|</span></span>
+                  <span class="glider-type">LS 3 neo <span class="sep">|</span></span>
+                  <span class="glider-type">LS 3 WL <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8e neo <span class="sep">|</span></span>
+                  <span class="glider-type">SB 11 <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus b 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus bT 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus cM 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus cT 15m</span>
+              </td>
+              <td>0.982</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASW 20,F,L <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 20,F,L-J <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 24 E WL <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 24 WL <span class="sep">|</span></span>
+                  <span class="glider-type">Discus a <span class="sep">|</span></span>
+                  <span class="glider-type">Discus b WL <span class="sep">|</span></span>
+                  <span class="glider-type">Genesis <span class="sep">|</span></span>
+                  <span class="glider-type">LS 3 <span class="sep">|</span></span>
+                  <span class="glider-type">LS 3a <span class="sep">|</span></span>
+                  <span class="glider-type">LS 7 neo <span class="sep">|</span></span>
+                  <span class="glider-type">LS 7 WL <span class="sep">|</span></span>
+                  <span class="glider-type">Mini Nimbus <span class="sep">|</span></span>
+                  <span class="glider-type">Mosquito</span>
+              </td>
+              <td>0.973</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASW 20 B/C Top 15m <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 24 <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 24 B <span class="sep">|</span></span>
+                  <span class="glider-type">ASW 24 E <span class="sep">|</span></span>
+                  <span class="glider-type">D 40 <span class="sep">|</span></span>
+                  <span class="glider-type">DG 200 <span class="sep">|</span></span>
+                  <span class="glider-type">DG 400 <span class="sep">|</span></span>
+                  <span class="glider-type">Discus b <span class="sep">|</span></span>
+                  <span class="glider-type">Discus bM WL <span class="sep">|</span></span>
+                  <span class="glider-type">Discus bT WL <span class="sep">|</span></span>
+                  <span class="glider-type">HpH 304C Wasp <span class="sep">|</span></span>
+                  <span class="glider-type">LS 7 <span class="sep">|</span></span>
+                  <span class="glider-type">SZD-55-1 Nexus</span>
+              </td>
+              <td>0.964</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">ASW 20,F,L Top 15m <span class="sep">|</span></span>
+                  <span class="glider-type">DG 300 WL <span class="sep">|</span></span>
+                  <span class="glider-type">DG 300G WL <span class="sep">|</span></span>
+                  <span class="glider-type">DG 303 <span class="sep">|</span></span>
+                  <span class="glider-type">Discus bM <span class="sep">|</span></span>
+                  <span class="glider-type">Discus bT <span class="sep">|</span></span>
+                  <span class="glider-type">LS 4 Jet neo <span class="sep">|</span></span>
+                  <span class="glider-type">LS 4 neo <span class="sep">|</span></span>
+                  <span class="glider-type">LS 4 WL</span>
+              </td>
+              <td>0.955</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">AFH 24 <span class="sep">|</span></span>
+                  <span class="glider-type">Applebay Zuni II <span class="sep">|</span></span>
+                  <span class="glider-type">CB-15 Crystal <span class="sep">|</span></span>
+                  <span class="glider-type">DG 300 <span class="sep">|</span></span>
+                  <span class="glider-type">G 104 Speed Astir 2 <span class="sep">|</span></span>
+                  <span class="glider-type">LS 4 <span class="sep">|</span></span>
+                  <span class="glider-type">PIK-20 D <span class="sep">|</span></span>
+                  <span class="glider-type">PIK-20 E</span>
+              </td>
+              <td>0.945</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">mini LAK <span class="sep">|</span></span>
+                  <span class="glider-type">Pegase</span>
+              </td>
+              <td>0.936</td>
+            </tr>
+            <tr>
+              <td>
+                  <span class="glider-type">DG 300 FG <span class="sep">|</span></span>
+                  <span class="glider-type">mini LAK-FES <span class="sep">|</span></span>
+                  <span class="glider-type">PIK-20 B</span>
               </td>
               <td>0.927</td>
             </tr>

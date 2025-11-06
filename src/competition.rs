@@ -76,8 +76,13 @@ pub fn generate_competition(opts: &Options) -> anyhow::Result<()> {
         .collect::<Result<Vec<Record>, _>>()?;
 
     let classes = vec![
+        CompetitionClass::from("Offene Klasse", 126., 117., &handicaps, |_r| true),
+        CompetitionClass::from("18m Klasse", 120., 111., &handicaps, |r| r.is_18m),
         CompetitionClass::from("15m Klasse", 114., 106., &handicaps, |r| r.is_15m),
         CompetitionClass::from("Standardklasse", 110., 102., &handicaps, |r| r.is_standard),
+        CompetitionClass::from("Standardklasse (Junioren)", 110., 102., &handicaps, |r| {
+            (r.is_standard || r.is_15m) && r.handicap <= 110.
+        }),
     ];
 
     let mut env = Environment::new();
