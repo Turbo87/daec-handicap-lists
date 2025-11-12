@@ -48,6 +48,7 @@ expression: html
             </tr>
             <tr>
               <td>
+                  <span class="glider-type">AS 35 Mi 20m <span class="sep">|</span></span>
                   <span class="glider-type">EB 29 (850 kg) <span class="sep">|</span></span>
                   <span class="glider-type">JS1C 21m <span class="sep">|</span></span>
                   <span class="glider-type">JS1C TJ 21m <span class="sep">|</span></span>
@@ -92,6 +93,7 @@ expression: html
                   <span class="glider-type">AS 33 18m <span class="sep">|</span></span>
                   <span class="glider-type">AS 33 Es 18m <span class="sep">|</span></span>
                   <span class="glider-type">AS 33 Me 18m <span class="sep">|</span></span>
+                  <span class="glider-type">AS 35 Mi 18m <span class="sep">|</span></span>
                   <span class="glider-type">ASH 25 EB 28 <span class="sep">|</span></span>
                   <span class="glider-type">ASW 22 BLE (810 kg) <span class="sep">|</span></span>
                   <span class="glider-type">Diana-3 <span class="sep">|</span></span>
@@ -202,6 +204,7 @@ expression: html
                   <span class="glider-type">AS 33 18m <span class="sep">|</span></span>
                   <span class="glider-type">AS 33 Es 18m <span class="sep">|</span></span>
                   <span class="glider-type">AS 33 Me 18m <span class="sep">|</span></span>
+                  <span class="glider-type">AS 35 Mi 18m <span class="sep">|</span></span>
                   <span class="glider-type">Diana-3 <span class="sep">|</span></span>
                   <span class="glider-type">JS3 18m <span class="sep">|</span></span>
                   <span class="glider-type">JS3 RES 18m <span class="sep">|</span></span>
@@ -814,6 +817,7 @@ expression: html
           </tr>
           <tr>
             <td>
+              <span class="glider-type">AS 35 Mi 20m <span class="sep">|</span></span>
               <span class="glider-type">EB 29 (850 kg) <span class="sep">|</span></span>
               <span class="glider-type">JS1C 21m <span class="sep">|</span></span>
               <span class="glider-type">JS1C TJ 21m <span class="sep">|</span></span>
@@ -858,6 +862,7 @@ expression: html
               <span class="glider-type">AS 33 18m <span class="sep">|</span></span>
               <span class="glider-type">AS 33 Es 18m <span class="sep">|</span></span>
               <span class="glider-type">AS 33 Me 18m <span class="sep">|</span></span>
+              <span class="glider-type">AS 35 Mi 18m <span class="sep">|</span></span>
               <span class="glider-type">ASH 25 EB 28 <span class="sep">|</span></span>
               <span class="glider-type">ASW 22 BLE (810 kg) <span class="sep">|</span></span>
               <span class="glider-type">Diana-3 <span class="sep">|</span></span>
