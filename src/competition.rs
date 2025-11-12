@@ -10,6 +10,8 @@ use std::io::Write;
 struct Record {
     model: String,
     handicap: f32,
+    #[serde(rename(deserialize = "Open"), deserialize_with = "deserialize_bool")]
+    is_open: bool,
     #[serde(rename(deserialize = "18"), deserialize_with = "deserialize_bool")]
     is_18m: bool,
     #[serde(rename(deserialize = "15"), deserialize_with = "deserialize_bool")]
@@ -76,7 +78,7 @@ pub fn generate_competition(opts: &Options) -> anyhow::Result<()> {
         .collect::<Result<Vec<Record>, _>>()?;
 
     let classes = vec![
-        CompetitionClass::from("Offene Klasse", 126., 117., &handicaps, |_r| true),
+        CompetitionClass::from("Offene Klasse", 126., 117., &handicaps, |r| r.is_open),
         CompetitionClass::from("18m Klasse", 120., 111., &handicaps, |r| r.is_18m),
         CompetitionClass::from("15m Klasse", 114., 106., &handicaps, |r| r.is_15m),
         CompetitionClass::from("Standardklasse", 110., 102., &handicaps, |r| r.is_standard),
