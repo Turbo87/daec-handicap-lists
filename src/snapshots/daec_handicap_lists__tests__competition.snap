@@ -103,6 +103,7 @@ expression: html
                   <span class="glider-type">Nimbus 4M (800 kg) <span class="sep">|</span></span>
                   <span class="glider-type">Nimbus 4T (800 kg) <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3 Sport 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3E Sport 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3T Sport 18m</span>
               </td>
               <td>0.952</td>
@@ -126,6 +127,7 @@ expression: html
                   <span class="glider-type">Nimbus 4 (750 kg) <span class="sep">|</span></span>
                   <span class="glider-type">Nimbus 4DM (820 kg) <span class="sep">|</span></span>
                   <span class="glider-type">Nimbus 4DT (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3E Performance 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3F Sport 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3M 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3T Performance 18m</span>
@@ -205,6 +207,7 @@ expression: html
                   <span class="glider-type">JS3 RES 18m <span class="sep">|</span></span>
                   <span class="glider-type">JS3 TJ 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3 Sport 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3E Sport 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3T Sport 18m</span>
               </td>
               <td>1.000</td>
@@ -219,6 +222,7 @@ expression: html
                   <span class="glider-type">JS1 18m <span class="sep">|</span></span>
                   <span class="glider-type">JS1 TJ 18m <span class="sep">|</span></span>
                   <span class="glider-type">JS2 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3E Performance 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3F Sport 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3M 18m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3T Performance 18m</span>
@@ -315,6 +319,7 @@ expression: html
                   <span class="glider-type">Ventus 2ax <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 2cxa 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3 Sport 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3E Sport 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3T Sport 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus c 17.6m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus cM 17.6m <span class="sep">|</span></span>
@@ -339,6 +344,7 @@ expression: html
                   <span class="glider-type">Ventus 2c 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 2cM 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 2cT 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3E Performance 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3F Sport 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3M 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3T Performance 15m <span class="sep">|</span></span>
@@ -384,6 +390,7 @@ expression: html
                   <span class="glider-type">Ventus 2ax <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 2cxa 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3 Sport 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3E Sport 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3T Sport 15m</span>
               </td>
               <td>0.991</td>
@@ -403,6 +410,7 @@ expression: html
                   <span class="glider-type">Ventus 2c 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 2cM 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 2cT 15m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus 3E Performance 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3F Sport 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3M 15m <span class="sep">|</span></span>
                   <span class="glider-type">Ventus 3T Performance 15m</span>
@@ -861,6 +869,7 @@ expression: html
               <span class="glider-type">Nimbus 4M (800 kg) <span class="sep">|</span></span>
               <span class="glider-type">Nimbus 4T (800 kg) <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3 Sport 18m <span class="sep">|</span></span>
+              <span class="glider-type">Ventus 3E Sport 18m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3T Sport 18m</span>
             </td>
             <td>120</td>
@@ -884,6 +893,7 @@ expression: html
               <span class="glider-type">Nimbus 4 (750 kg) <span class="sep">|</span></span>
               <span class="glider-type">Nimbus 4DM (820 kg) <span class="sep">|</span></span>
               <span class="glider-type">Nimbus 4DT (800 kg) <span class="sep">|</span></span>
+              <span class="glider-type">Ventus 3E Performance 18m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3F Sport 18m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3M 18m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3T Performance 18m</span>
@@ -1026,6 +1036,7 @@ expression: html
               <span class="glider-type">Ventus 2ax <span class="sep">|</span></span>
               <span class="glider-type">Ventus 2cxa 15m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3 Sport 15m <span class="sep">|</span></span>
+              <span class="glider-type">Ventus 3E Sport 15m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3T Sport 15m <span class="sep">|</span></span>
               <span class="glider-type">Ventus c 17.6m <span class="sep">|</span></span>
               <span class="glider-type">Ventus cM 17.6m <span class="sep">|</span></span>
@@ -1065,6 +1076,7 @@ expression: html
               <span class="glider-type">Ventus 2c 15m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 2cM 15m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 2cT 15m <span class="sep">|</span></span>
+              <span class="glider-type">Ventus 3E Performance 15m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3F Sport 15m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3M 15m <span class="sep">|</span></span>
               <span class="glider-type">Ventus 3T Performance 15m <span class="sep">|</span></span>
