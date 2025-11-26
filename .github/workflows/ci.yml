@@ -23,7 +23,7 @@ jobs:
       - run: rustup component add rustfmt
       - run: rustup component add clippy
 
-      - uses: Swatinem/rust-cache@f13886b937689c021905a6b90929199931d60db1 # v2.8.1
+      - uses: Swatinem/rust-cache@779680da715d629ac1d338a641029a2f4372abb5 # v2.8.2
 
       - run: cargo fmt --check --all
       - run: cargo clippy --all-targets --all-features --workspace
@@ -38,7 +38,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6.0.0
-      - uses: Swatinem/rust-cache@f13886b937689c021905a6b90929199931d60db1 # v2.8.1
+      - uses: Swatinem/rust-cache@779680da715d629ac1d338a641029a2f4372abb5 # v2.8.2
 
       - run: cargo build --tests --workspace
       - run: cargo test --workspace
