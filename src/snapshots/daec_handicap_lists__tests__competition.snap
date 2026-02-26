@@ -115,8 +115,10 @@ expression: html
                   <span class="glider-type">ASG 29 E 18m <span class="sep">|</span></span>
                   <span class="glider-type">ASG 29 Es 18m <span class="sep">|</span></span>
                   <span class="glider-type">ASG 29 RES 18m <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 >= 26m (790 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 E >= 26m (790 kg) <span class="sep">|</span></span>
                   <span class="glider-type">ASH 25 M >= 26m <span class="sep">|</span></span>
-                  <span class="glider-type">ASH 25 Mi >= 26m (790 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 Mi >= 26m <span class="sep">|</span></span>
                   <span class="glider-type">ASW 22 BE (810 kg) <span class="sep">|</span></span>
                   <span class="glider-type">ASW 22 BL (750 kg) <span class="sep">|</span></span>
                   <span class="glider-type">Diana-3 FES <span class="sep">|</span></span>
@@ -166,6 +168,9 @@ expression: html
                   <span class="glider-type">ASG 32 (800 kg) <span class="sep">|</span></span>
                   <span class="glider-type">ASG 32 EL (800 kg) <span class="sep">|</span></span>
                   <span class="glider-type">ASG 32 Mi (800 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 (790 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 E (790 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">ASH 25 M <span class="sep">|</span></span>
                   <span class="glider-type">ASW 22 24m <span class="sep">|</span></span>
                   <span class="glider-type">ASW 22E 24m <span class="sep">|</span></span>
                   <span class="glider-type">DG 808C Competition 18m <span class="sep">|</span></span>
@@ -298,9 +303,13 @@ expression: html
                   <span class="glider-type">LAK-19 T 18m <span class="sep">|</span></span>
                   <span class="glider-type">LS 6 17.5m <span class="sep">|</span></span>
                   <span class="glider-type">LS 8 18m (575 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 Jet 18m (575 kg) <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T 18m (575 kg) <span class="sep">|</span></span>
                   <span class="glider-type">LS 9 <span class="sep">|</span></span>
-                  <span class="glider-type">SZD-56-2 Diana 2</span>
+                  <span class="glider-type">SZD-56-2 Diana 2 <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus c 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus cM 18m <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus cT 18m</span>
               </td>
               <td>0.950</td>
             </tr>
@@ -314,6 +323,7 @@ expression: html
                   <span class="glider-type">JS3 RES 15m <span class="sep">|</span></span>
                   <span class="glider-type">JS3 TJ 15m <span class="sep">|</span></span>
                   <span class="glider-type">LS 8 18m (525 kg) <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 Jet 18m (525 kg) <span class="sep">|</span></span>
                   <span class="glider-type">LS 8e 18m <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T 18m (525 kg) <span class="sep">|</span></span>
                   <span class="glider-type">SZD-56-2 Diana 2 FES <span class="sep">|</span></span>
@@ -461,6 +471,8 @@ expression: html
                   <span class="glider-type">LAK-19 T 15m <span class="sep">|</span></span>
                   <span class="glider-type">LS 6 <span class="sep">|</span></span>
                   <span class="glider-type">LS 8 <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 Jet <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 Jet neo <span class="sep">|</span></span>
                   <span class="glider-type">LS 8 neo <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T neo <span class="sep">|</span></span>
@@ -556,6 +568,8 @@ expression: html
                   <span class="glider-type">LAK-19 15m <span class="sep">|</span></span>
                   <span class="glider-type">LAK-19 T 15m <span class="sep">|</span></span>
                   <span class="glider-type">LS 8 <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 Jet <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 Jet neo <span class="sep">|</span></span>
                   <span class="glider-type">LS 8 neo <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T neo</span>
@@ -678,6 +692,8 @@ expression: html
                   <span class="glider-type">LAK-19 T 15m <span class="sep">|</span></span>
                   <span class="glider-type">LS 6 <span class="sep">|</span></span>
                   <span class="glider-type">LS 8 <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 Jet <span class="sep">|</span></span>
+                  <span class="glider-type">LS 8 Jet neo <span class="sep">|</span></span>
                   <span class="glider-type">LS 8 neo <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T neo <span class="sep">|</span></span>
@@ -884,8 +900,10 @@ expression: html
               <span class="glider-type">ASG 29 E 18m <span class="sep">|</span></span>
               <span class="glider-type">ASG 29 Es 18m <span class="sep">|</span></span>
               <span class="glider-type">ASG 29 RES 18m <span class="sep">|</span></span>
+              <span class="glider-type">ASH 25 >= 26m (790 kg) <span class="sep">|</span></span>
+              <span class="glider-type">ASH 25 E >= 26m (790 kg) <span class="sep">|</span></span>
               <span class="glider-type">ASH 25 M >= 26m <span class="sep">|</span></span>
-              <span class="glider-type">ASH 25 Mi >= 26m (790 kg) <span class="sep">|</span></span>
+              <span class="glider-type">ASH 25 Mi >= 26m <span class="sep">|</span></span>
               <span class="glider-type">ASW 22 BE (810 kg) <span class="sep">|</span></span>
               <span class="glider-type">ASW 22 BL (750 kg) <span class="sep">|</span></span>
               <span class="glider-type">Diana-3 FES <span class="sep">|</span></span>
@@ -935,6 +953,9 @@ expression: html
               <span class="glider-type">ASG 32 (800 kg) <span class="sep">|</span></span>
               <span class="glider-type">ASG 32 EL (800 kg) <span class="sep">|</span></span>
               <span class="glider-type">ASG 32 Mi (800 kg) <span class="sep">|</span></span>
+              <span class="glider-type">ASH 25 (790 kg) <span class="sep">|</span></span>
+              <span class="glider-type">ASH 25 E (790 kg) <span class="sep">|</span></span>
+              <span class="glider-type">ASH 25 M <span class="sep">|</span></span>
               <span class="glider-type">ASW 22 24m <span class="sep">|</span></span>
               <span class="glider-type">ASW 22E 24m <span class="sep">|</span></span>
               <span class="glider-type">DG 808C Competition 18m <span class="sep">|</span></span>
@@ -960,9 +981,8 @@ expression: html
           <tr>
             <td>
               <span class="glider-type">Arcus (750 kg) <span class="sep">|</span></span>
-              <span class="glider-type">ASH 25 <span class="sep">|</span></span>
-              <span class="glider-type">ASH 25 E <span class="sep">|</span></span>
-              <span class="glider-type">ASH 25 M <span class="sep">|</span></span>
+              <span class="glider-type">ASH 25 (750 kg) <span class="sep">|</span></span>
+              <span class="glider-type">ASH 25 E (750 kg) <span class="sep">|</span></span>
               <span class="glider-type">ASH 26 <span class="sep">|</span></span>
               <span class="glider-type">ASH 26 E <span class="sep">|</span></span>
               <span class="glider-type">ASW 22 22m <span class="sep">|</span></span>
@@ -1012,9 +1032,13 @@ expression: html
               <span class="glider-type">LS 5 <span class="sep">|</span></span>
               <span class="glider-type">LS 6 17.5m <span class="sep">|</span></span>
               <span class="glider-type">LS 8 18m (575 kg) <span class="sep">|</span></span>
+              <span class="glider-type">LS 8 Jet 18m (575 kg) <span class="sep">|</span></span>
               <span class="glider-type">LS 8T 18m (575 kg) <span class="sep">|</span></span>
               <span class="glider-type">LS 9 <span class="sep">|</span></span>
-              <span class="glider-type">SZD-56-2 Diana 2</span>
+              <span class="glider-type">SZD-56-2 Diana 2 <span class="sep">|</span></span>
+              <span class="glider-type">Ventus c 18m <span class="sep">|</span></span>
+              <span class="glider-type">Ventus cM 18m <span class="sep">|</span></span>
+              <span class="glider-type">Ventus cT 18m</span>
             </td>
             <td>114</td>
           </tr>
@@ -1032,6 +1056,7 @@ expression: html
               <span class="glider-type">JS3 RES 15m <span class="sep">|</span></span>
               <span class="glider-type">JS3 TJ 15m <span class="sep">|</span></span>
               <span class="glider-type">LS 8 18m (525 kg) <span class="sep">|</span></span>
+              <span class="glider-type">LS 8 Jet 18m (525 kg) <span class="sep">|</span></span>
               <span class="glider-type">LS 8e 18m <span class="sep">|</span></span>
               <span class="glider-type">LS 8T 18m (525 kg) <span class="sep">|</span></span>
               <span class="glider-type">SB 10 <span class="sep">|</span></span>
@@ -1161,6 +1186,8 @@ expression: html
               <span class="glider-type">LAK-19 T 15m <span class="sep">|</span></span>
               <span class="glider-type">LS 6 <span class="sep">|</span></span>
               <span class="glider-type">LS 8 <span class="sep">|</span></span>
+              <span class="glider-type">LS 8 Jet <span class="sep">|</span></span>
+              <span class="glider-type">LS 8 Jet neo <span class="sep">|</span></span>
               <span class="glider-type">LS 8 neo <span class="sep">|</span></span>
               <span class="glider-type">LS 8T <span class="sep">|</span></span>
               <span class="glider-type">LS 8T neo <span class="sep">|</span></span>
