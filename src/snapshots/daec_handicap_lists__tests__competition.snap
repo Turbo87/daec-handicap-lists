@@ -638,7 +638,8 @@ expression: html
             </tr>
             <tr>
               <td>
-                  <span class="glider-type">Pegase</span>
+                  <span class="glider-type">Pegase <span class="sep">|</span></span>
+                  <span class="glider-type">SZD-52 Krokus</span>
               </td>
               <td>0.936</td>
             </tr>
@@ -796,7 +797,8 @@ expression: html
             <tr>
               <td>
                   <span class="glider-type">mini LAK <span class="sep">|</span></span>
-                  <span class="glider-type">Pegase</span>
+                  <span class="glider-type">Pegase <span class="sep">|</span></span>
+                  <span class="glider-type">SZD-52 Krokus</span>
               </td>
               <td>0.936</td>
             </tr>
@@ -1330,7 +1332,8 @@ expression: html
               <span class="glider-type">DG 505 Elan Orion 20m <span class="sep">|</span></span>
               <span class="glider-type">LS 3 Std <span class="sep">|</span></span>
               <span class="glider-type">mini LAK <span class="sep">|</span></span>
-              <span class="glider-type">Pegase</span>
+              <span class="glider-type">Pegase <span class="sep">|</span></span>
+              <span class="glider-type">SZD-52 Krokus</span>
             </td>
             <td>103</td>
           </tr>
