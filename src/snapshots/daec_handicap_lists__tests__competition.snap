@@ -477,7 +477,8 @@ expression: html
                   <span class="glider-type">LS 8T <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T neo <span class="sep">|</span></span>
                   <span class="glider-type">Ventus a 15m <span class="sep">|</span></span>
-                  <span class="glider-type">Ventus b 15m WL</span>
+                  <span class="glider-type">Ventus b 15m WL <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus bT 15m WL</span>
               </td>
               <td>0.956</td>
             </tr>
@@ -698,7 +699,8 @@ expression: html
                   <span class="glider-type">LS 8T <span class="sep">|</span></span>
                   <span class="glider-type">LS 8T neo <span class="sep">|</span></span>
                   <span class="glider-type">Ventus a 15m <span class="sep">|</span></span>
-                  <span class="glider-type">Ventus b 15m WL</span>
+                  <span class="glider-type">Ventus b 15m WL <span class="sep">|</span></span>
+                  <span class="glider-type">Ventus bT 15m WL</span>
               </td>
               <td>0.991</td>
             </tr>
@@ -1194,7 +1196,8 @@ expression: html
               <span class="glider-type">Stemme S10 <span class="sep">|</span></span>
               <span class="glider-type">Stemme S10-VT <span class="sep">|</span></span>
               <span class="glider-type">Ventus a 15m <span class="sep">|</span></span>
-              <span class="glider-type">Ventus b 15m WL</span>
+              <span class="glider-type">Ventus b 15m WL <span class="sep">|</span></span>
+              <span class="glider-type">Ventus bT 15m WL</span>
             </td>
             <td>109</td>
           </tr>
