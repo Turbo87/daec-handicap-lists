@@ -11,7 +11,7 @@ env:
 
 jobs:
   lint:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
 
     env:
       RUSTFLAGS: "-D warnings"
@@ -30,7 +30,7 @@ jobs:
       - run: cargo doc --no-deps --document-private-items
 
   test:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
 
     env:
       RUST_BACKTRACE: 1
